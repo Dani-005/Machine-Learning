@@ -1,3 +1,5 @@
+#thank you to https://www.kaggle.com/code/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy. 
+#I followed their code and completed the code on my jupiter notebook to get my results
 #!/usr/bin/env python
 # coding: utf-8
 
